@@ -1,0 +1,14 @@
+{
+  "servers": [
+    "https://track.gpslvn.iq",
+    "https://gov.gpslvn.com",
+    "https://auth.gpslvn.com"
+  ],
+  "maintenance": false,
+  "maintenance_message_ar": "التطبيق تحت الصيانة حالياً، يرجى المحاولة لاحقاً.",
+  "maintenance_message_en": "App is under maintenance. Please try again later.",
+  "maintenance_message_ku": "ئەپلیکەیشنەکە لە ژێر چاککردندایە.",
+  "require_update": true,
+  "required_version": "2.2.0",
+  "update_url": "https://play.google.com/store/apps/details?id=com.lvn.pro.client"
+}
